@@ -21,6 +21,7 @@ public class Table {
 	}
 	
 	
+	
 	//내가 조정해야할 부분 부분
 	synchronized static void add() {
 		
